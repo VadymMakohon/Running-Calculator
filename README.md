@@ -33,6 +33,6 @@ No external dependencies—just HTML, CSS, and JavaScript.
 
 If you like this project, give it a ⭐ on GitHub! Your support motivates me to create even more useful tools for runners like us. 😊
 
-# 👤Contributors
+## 👤Contributors
 
 - [Vadym Makohon](https://github.com/VadymMakohon)
