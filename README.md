@@ -5,3 +5,11 @@ A simple, user-friendly running pace calculator built with HTML, CSS, and JavaSc
 ## 📋 Why I Built This
 
 As someone who enjoys running, I often found myself needing to calculate my running pace during training. Using online calculators felt inconvenient, so I decided to create a personalized solution that I could rely on anytime. This running calculator is straightforward, intuitive, and tailored to my needs—and now, it can be yours too!
+
+### ⭐ Show Your Support
+
+If you like this project, give it a ⭐ on GitHub! Your support motivates me to create even more useful tools for runners like us. 😊
+
+# 👤Contributors
+
+- [Vadym Makohon](https://github.com/VadymMakohon)
