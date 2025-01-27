@@ -6,6 +6,27 @@ A simple, user-friendly running pace calculator built with HTML, CSS, and JavaSc
 
 As someone who enjoys running, I often found myself needing to calculate my running pace during training. Using online calculators felt inconvenient, so I decided to create a personalized solution that I could rely on anytime. This running calculator is straightforward, intuitive, and tailored to my needs—and now, it can be yours too!
 
+## 🚀 Features
+
+Custom Distance Input:
+
+Enter the distance of your run in kilometers.
+Time Format:
+
+Input your running time in hh:mm:ss format for accuracy.
+Accurate Calculations:
+
+Calculates:
+Pace per kilometer (minutes per km)
+Pace per mile (minutes per mile)
+Total time in minutes
+Mobile-Friendly:
+
+Fully responsive and easy to use on all devices.
+Lightweight and Fast:
+
+No external dependencies—just HTML, CSS, and JavaScript.
+
 ### ⭐ Show Your Support
 
 If you like this project, give it a ⭐ on GitHub! Your support motivates me to create even more useful tools for runners like us. 😊
