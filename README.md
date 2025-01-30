@@ -8,6 +8,8 @@ As someone who enjoys running, I often found myself needing to calculate my runn
 
 ## 🖥️ Demo
 ![preview](https://github.com/user-attachments/assets/a0ebe3e8-9757-48bd-b6ed-f6d69be91b28)
+![darkmode](https://github.com/user-attachments/assets/e4064c1b-81c1-4f1d-9d19-f80f4f2e6b00)
+
 
 
 ## 🚀 Features
