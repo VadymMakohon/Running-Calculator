@@ -11,8 +11,6 @@ As someone who enjoys running, I often found myself needing to calculate my runn
 
 ![darkmode](https://github.com/user-attachments/assets/e4064c1b-81c1-4f1d-9d19-f80f4f2e6b00)
 
-
-
 ## 🚀 Features
 
 Custom Distance Input:
